@@ -1,0 +1,33 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/bunschoten/Documents/projects/hangman/target/scala-2.13/hangman_2.13-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	hangmanzio[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bunschoten/Documents/projects/hangman/target/scala-2.13/classes/hangmanzio[0m
+[0m[[0m[0mdebug[0m] [0m[0m	hangmanzio/Hangman.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bunschoten/Documents/projects/hangman/target/scala-2.13/classes/hangmanzio/Hangman.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	hangmanzio/Hangman$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bunschoten/Documents/projects/hangman/target/scala-2.13/classes/hangmanzio/Hangman$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	hangmanzio/Hangman$GuessResult$Lost$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bunschoten/Documents/projects/hangman/target/scala-2.13/classes/hangmanzio/Hangman$GuessResult$Lost$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	hangmanzio/Hangman$State$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bunschoten/Documents/projects/hangman/target/scala-2.13/classes/hangmanzio/Hangman$State$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	hangmanzio/Hangman$GuessResult$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bunschoten/Documents/projects/hangman/target/scala-2.13/classes/hangmanzio/Hangman$GuessResult$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	hangmanzio/Hangman$GuessResult$Incorrect$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bunschoten/Documents/projects/hangman/target/scala-2.13/classes/hangmanzio/Hangman$GuessResult$Incorrect$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	hangmanzio/Hangman$GuessResult$Correct$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bunschoten/Documents/projects/hangman/target/scala-2.13/classes/hangmanzio/Hangman$GuessResult$Correct$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	hangmanzio/Hangman$GuessResult$Won$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bunschoten/Documents/projects/hangman/target/scala-2.13/classes/hangmanzio/Hangman$GuessResult$Won$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	hangmanzio/Hangman$GuessResult$Unchanged$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bunschoten/Documents/projects/hangman/target/scala-2.13/classes/hangmanzio/Hangman$GuessResult$Unchanged$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	hangmanzio/Hangman$State.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bunschoten/Documents/projects/hangman/target/scala-2.13/classes/hangmanzio/Hangman$State.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	hangmanzio/Hangman$GuessResult.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bunschoten/Documents/projects/hangman/target/scala-2.13/classes/hangmanzio/Hangman$GuessResult.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HangmanImp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bunschoten/Documents/projects/hangman/target/scala-2.13/classes/HangmanImp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HangmanImp$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bunschoten/Documents/projects/hangman/target/scala-2.13/classes/HangmanImp$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HangmanImp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bunschoten/Documents/projects/hangman/target/scala-2.13/classes/HangmanImp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
